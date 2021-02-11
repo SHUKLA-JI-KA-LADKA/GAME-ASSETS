@@ -13,5 +13,8 @@
 <img src="imgs/pyramidtop.png" alt="pyramid">
 <img src="imgs/pyramidft.png" alt="pyramid">
  - Solar panel also made it myself tried to give it a releastic touch to it.
+<img src="imgs/solarpannelsv.png" alt="solarpannel">
+<img src="imgs/solarpanneltv.png" alt="solarpannel">
+<img src="imgs/solarpannelvv.png" alt="solarpannel">
 
  - GRADUALLY WILL UPLOAD MORE SCRIPTS.
