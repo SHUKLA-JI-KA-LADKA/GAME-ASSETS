@@ -17,4 +17,4 @@
 <img src="imgs/solarpanneltv.png" alt="solarpannel">
 <img src="imgs/solarpannelvv.png" alt="solarpannel">
 
- - GRADUALLY WILL UPLOAD MORE SCRIPTS.
+ - GRADUALLY WILL UPLOAD MORE.
